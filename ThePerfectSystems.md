@@ -6,5 +6,5 @@ Throughout our history, we have successfully automated business processes for pa
 
 In addition to our main office in Moscow, we have branches in several cities across the US, India and Europe. Local offices serve only to facilitate communication between employees. Otherwise, our specialists mostly work remotely since the company employs representatives from almost all time zones.
 
-![alt text](Untitled Diagram.drawio-5.png)
+![alt text]([Untitled Diagram.drawio-5.png](https://github.com/smarha/copywriting-rus-eng/blob/main/Untitled%20Diagram.drawio-5.png)https://github.com/smarha/copywriting-rus-eng/blob/main/Untitled%20Diagram.drawio-5.png)
 
